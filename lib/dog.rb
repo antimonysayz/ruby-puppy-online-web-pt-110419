@@ -13,5 +13,6 @@ class Dog
   def self.print_all
     @@all do |dog| 
       puts dog
-    end
+  end
+  
 end
